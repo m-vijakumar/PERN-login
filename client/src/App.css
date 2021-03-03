@@ -1,0 +1,46 @@
+.App {
+  margin-top:10%;
+  text-align: center;
+  color: rgb(166, 175, 182);
+}
+
+.App-logo {
+  height: 40vmin;
+}
+td{
+  text-align: center;
+}
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+
+.login{
+
+  text-align: center;
+ display: inline;
+ 
+  left: 50%;
+  top:50%
+}
+#spinner {
+  top: 30%;
+  left: 50%;
+  position: absolute;
+  background: white;
+}
+#spinner1 {
+
+  position: absolute;
+  background: transparent;
+}
